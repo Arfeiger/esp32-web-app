@@ -4,8 +4,8 @@
  * This file manages the light sensor.
  *
  * Values:
- *  Very bright: > 9900
- *  Bright 700 to 990
+ *  Very bright: > 950
+ *  Bright 700 to 950
  *  Moody: 400 to 700
  *  Dark: 100 to 400
  *  Total darkness < 100

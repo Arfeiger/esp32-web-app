@@ -1,4 +1,4 @@
-/*
+ /*
  * TempAndHumiditySensor.h
  *
  * This file manages the ambient temperature and humidity sensor.
