@@ -20,7 +20,7 @@
 
 #include <Arduino.h>
 
-#define lightSensorPin A1
+#define lightSensorPin 35
 
 int getLightLevel();
 

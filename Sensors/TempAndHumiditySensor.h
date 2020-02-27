@@ -14,7 +14,7 @@
 #include <Arduino.h>
 #include <dht11.h>
 
-#define dht11SensorPin 4
+#define dht11SensorPin 32
 
 int getTemp();
 int getHumidity();

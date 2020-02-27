@@ -18,7 +18,7 @@
 
 #include <Arduino.h>
 
-#define soilSensorPin A0
+#define soilSensorPin 34
 
 int getSoilHumidity();
 
