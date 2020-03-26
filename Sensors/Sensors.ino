@@ -23,11 +23,11 @@ void setup() {
 
 void loop() {
   Serial.print("\nLight level: ");
-  Serial.println(sensor.getLightLevel());
+  Serial.println(sensor.getLight());
   Serial.print("Soil humidity: ");
-  Serial.println(sensor.getSoilHumidity());
+  Serial.println(sensor.getSoil());
   Serial.print("Ambient temperature: ");
-  Serial.println(sensor.getTemp());  
+  Serial.println(sensor.getTemperature());  
   Serial.print("Ambient humidity: ");
   Serial.println(sensor.getHumidity());
   delay(1000);
