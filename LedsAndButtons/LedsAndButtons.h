@@ -1,5 +1,5 @@
-#include <Arduino.h>
-#include "Pinout.h"
+//#include <Arduino.h>
+#include "Pinout/Pinout.h"
 
 class LedsAndButtons
 {

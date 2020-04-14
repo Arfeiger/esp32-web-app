@@ -9,7 +9,7 @@
 
 #include <WiFi.h>
 
-clalss IpotServer
+class IpotServer
 {
 public:
   void setupServer(WiFiServer server);
