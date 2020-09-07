@@ -7,3 +7,11 @@ give them enough sunlight. That’s why the iPot project will show the user the 
 temperature, room humidity, soil humidity and sunlight level. To make it even easier, the user
 can connect their own phone or computer to the iPot via WiFi and check the interface using the
 browser.
+
+# Schematics
+![schema]
+
+
+
+# Interface
+![interface]
