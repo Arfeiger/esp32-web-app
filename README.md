@@ -9,9 +9,10 @@ can connect their own phone or computer to the iPot via WiFi and check the inter
 browser.
 
 # Schematics
-![Alt schema] (https://github.com/Arfeiger/esp32-web-app/blob/master/Schematics/final_shematic.png)
+![inetrface](https://user-images.githubusercontent.com/53835925/92418655-edfe9a00-f168-11ea-98f8-e57899510fa0.png)
+
 
 
 
 # Interface
-![Alt interface] (https://github.com/Arfeiger/esp32-web-app/blob/master/Schematics/inetrface.png)
+![final_shematic](https://user-images.githubusercontent.com/53835925/92418659-f22ab780-f168-11ea-8454-3f4d0aecb1f4.png)
