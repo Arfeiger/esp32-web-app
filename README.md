@@ -9,10 +9,10 @@ can connect their own phone or computer to the iPot via WiFi and check the inter
 browser.
 
 # Schematics
-![inetrface](https://user-images.githubusercontent.com/53835925/92418655-edfe9a00-f168-11ea-98f8-e57899510fa0.png)
+![final_shematic](https://user-images.githubusercontent.com/53835925/92418659-f22ab780-f168-11ea-8454-3f4d0aecb1f4.png)
 
 
 
 
 # Interface
-![final_shematic](https://user-images.githubusercontent.com/53835925/92418659-f22ab780-f168-11ea-8454-3f4d0aecb1f4.png)
+![inetrface](https://user-images.githubusercontent.com/53835925/92418655-edfe9a00-f168-11ea-98f8-e57899510fa0.png)
